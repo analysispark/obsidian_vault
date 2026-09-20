@@ -1,0 +1,22 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "daily-notes": 1,
+    "kusf": 2,
+    "projects": 3,
+    "수업자료": 4,
+    "체육특기자": 5,
+    "확률": 6
+  },
+  "tagColors": {},
+  "_version": 4
+}

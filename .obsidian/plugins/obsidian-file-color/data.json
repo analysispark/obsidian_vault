@@ -1,0 +1,22 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "HvjLZIFblmuQ3geaYw6dX",
+      "name": "Red",
+      "value": "#ff4242"
+    },
+    {
+      "id": "OFYjsRvFZiAuSKUvCShHZ",
+      "name": "Main",
+      "value": "#d1ffbd"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "RF-FTP.md",
+      "color": "OFYjsRvFZiAuSKUvCShHZ"
+    }
+  ]
+}
