@@ -1,0 +1,83 @@
+# ===================================
+# Operating System
+# ===================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.fseventsd
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+.directory
+
+# ===================================
+# Editors
+# ===================================
+
+# Vim
+*.swp
+*.swo
+*.swn
+.Session.vim
+
+# Neovim
+shada/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# ===================================
+# Obsidian
+# ===================================
+
+# Cache
+.obsidian/cache/
+.obsidian/workspace.json
+
+# Optional
+.obsidian/workspace-mobile.json
+
+# ===================================
+# Python
+# ===================================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===================================
+# Logs
+# ===================================
+
+*.log
+
+# ===================================
+# Large Attachments
+# ===================================
+
+*.mkv
+*.mp4
+*.avi
+*.mov
+
+# PDF를 Git에 넣고 싶지 않다면 주석 해제
+# *.pdf
+
+# 첨부파일 폴더 전체 제외
+# 05_Attached/
+

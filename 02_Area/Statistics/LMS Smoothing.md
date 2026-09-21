@@ -1,0 +1,2 @@
+통계프로그램 R의 통계패키지(GAMLSS package)를 이용하여 LMS 방법으로 추정하였다. LMS 통계방법은 최대우도법(maximum penalized likelihood)으로 평활화된 백분위수 곡선을 추정하는 방법이다. 체력 백분위수 산출은 성별을 구분한 후 연령별 L곡선(왜도를 제거하기 위한 Box-Cox power), M곡선(median), 그리고 S곡선(coefficient of variation)의 3차 함수인 큐빅 스플라인 곡선(cubin spline curve)을 적용시켜 추정한 Z점수를 활용하였다 . Box-Cox power exponential 분포는 세계보건기구가 성장곡선 연구 시 가장 먼저 고려해야 할 모형으로 권장하는 분포이다.
+최대산소섭취량은 Box-Cox power exponential 분포 적합에 실패하여, 모수적 분포를 이용하지 않고 성별, 연령별 표본 백분위수(sample quantiles)를 계산한 후에 단순평활 방법으로 백분위 함수를 추정하는 방법을 대안으로 제시하였다.
