@@ -19,11 +19,11 @@ macOS 12 라니 지금 현재는 베타버전인 OS를 설치하라고 한다.**
 
   
 
-#chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
+chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
 
-#sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
+sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
 
-#source ~/miniforge3/bin/activate
+source ~/miniforge3/bin/activate
 
 # Homebrew install miniforge.  <- 가능
 
