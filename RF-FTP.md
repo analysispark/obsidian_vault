@@ -1,7 +1,12 @@
 ---
 id: Richard Feynman Twelve Favorite Problems
 aliases:
+  - 인생 질문
 tags:
+  - 리처드파인만
+  - 12문제
+  - 인생문제
+  - 메인
 ---
 - [ ] 1. How to build Second Brain?
 - [ ] 2. 인공지능 모델들은 어떻게 판별하고 어떤 로직에 의해서 계산되는 것이지?
