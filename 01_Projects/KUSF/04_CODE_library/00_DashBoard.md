@@ -1,4 +1,5 @@
 
+```markdown
 ├── data
 │   └── basketball
 │       └── 남고부_통합데이터.xlsx
@@ -7,9 +8,9 @@
 │   ├── overview.md
 │   └── system_design.md
 ├── example.py
-├── [[#KUSF_Dashboard.py]]
-├── /[[#pages]]
-│   ├──[[#01_경기력평가지표.py]]
+├── KUSF_Dashboard.py
+├── pages
+│   ├── 01_경기력평가지표.py
 │   ├── 02_농구.py
 │   ├── 03_배구.py
 │   └── 04_야구.py
@@ -21,6 +22,8 @@
     ├── data_loader.py
     ├── metrics.py
     └── sample_data.py
+```
+
 
 
 ToDo

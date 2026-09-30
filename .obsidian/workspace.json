@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Resource/Chat GPT/Prompt.md",
+                "file": "아카이브/아시아건강운동학회.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "아시아건강운동학회"
             }
           }
         ]
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.4609375
+    "width": 303.4609375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +222,29 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
   "active": "44a0204de4a0c536",
   "lastOpenFiles": [
+    "아카이브/시리얼 - 라이센스.md",
+    "아카이브/Linux-mint 22.2 - RTX 4080.md",
+    "아카이브/Git.md",
+    "02_Area/Lecture_측정평가/04_상관과 예측.md",
+    "03_Resource/Obsidian/Markdown/Pandoc & Marp.md",
+    "02_Area/Lecture_스포츠경기예측론/03_Distribution-pptx.html",
+    "02_Area/Lecture_스포츠경기예측론/~$03_Distribution-pptx.pptx",
+    "02_Area/Lecture_스포츠경기예측론/03_Distribution-pptx.pptx",
+    "02_Area/Lecture_스포츠경기예측론/03_Distribution-pptx.md",
+    "03_Resource/Obsidian/Markdown/Markdown 수식 작성법.md",
+    "아카이브",
+    "02_Area/Lecture_측정평가/template.pptx",
+    "01_Journal",
+    "03_Resource/글짓기/글의 요약.md",
+    "02_Area/Lecture_측정평가",
+    "RF-FTP.md",
+    "03_Resource/Chat GPT/Prompt.md",
     "03_Resource/Browser/Arcbrowser.md",
     "00_Inbox/의사결정의 결과보다 과정 평가가 중요하다.md",
     "00_Inbox/머신러닝 연구를 위한 필수지표에 대한 고찰.md",
@@ -237,7 +256,6 @@
     "03_Resource/Mac OSX/M1 Tensorflow.md",
     "02_Area/Statistics/Distribution.md",
     "README.md",
-    "RF-FTP.md",
     "03_Resource/Lecture notes/모두 거짓말을 한다.md",
     "05_Attached/image.png",
     "05_Attached/Getting Started with tensorflow-metal.png",
@@ -245,24 +263,8 @@
     "06_Journal/2026/2026-09-19.md",
     "01_Projects/KUSF/KUSF.md",
     "06_Journal/2026",
-    "06_Journal/2025",
     "2026-09-19.md",
     "00_Inbox/루틴 만들기.md",
-    "00_Inbox/GPT 챗봇 만들기.md",
-    "05_Attached",
-    "03_Resource",
-    "02_Area",
-    "01_Projects/KUSF/00_연구내용/01_종목별 체육특기자경기력 평가지표 산출.md",
-    "01_Projects/KUSF/00_연구내용/02_종목별 체육특기자 경기력 평가지표 증명서 발급 기준 및 양식 구축.md",
-    "01_Projects/KUSF/00_연구내용/03_체육특기자 경기력 평가지표 대입 활용을 위한 현장 안내 및 홍보.md",
-    "01_Projects/KUSF/04_CODE_library/02_농구.md",
-    "01_Projects/KUSF/04_CODE_library/00_DashBoard.md",
-    "06_Journal/2023/2023-10-19.md",
-    "01_Projects/KUSF/99_회의록/무제.md",
-    "01_Projects/KUSF/04_CODE_library",
-    "01_Projects/KUSF/03_경기기록",
-    "01_Journal",
-    "04_Archive/양궁과제_학생인건비.md",
-    "01_Journal/2026-09-19.md"
+    "00_Inbox/GPT 챗봇 만들기.md"
   ]
 }
