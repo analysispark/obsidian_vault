@@ -28,6 +28,10 @@ marp 수업자료.md --pptx
 //실시간 미리보기
 marp -w lecture.md
 
+//랜더링
+marp week01.md \
+--theme-set ../theme/lecture.css \
+--pptx
 ```
 
 // marp 기능 및 나의 테마 만들기 찾아보자

@@ -1,0 +1,35 @@
+/* @theme lecture */
+
+section {
+/*  background-image: url("bg.png"); */
+  background-color: red;
+  background-size: cover;
+}
+
+/* 공통 헤더 */
+section::before {
+  content: "동양무예학과 | 스포츠경기예측론";
+  position: absolute;
+  top: 20px;
+  left: 40px;
+  font-size: 14px;
+  color: gray;
+}
+
+/* 타이틀 */
+section.title {
+/* background: white; */
+}
+
+section.title::before {
+  content: "";
+}
+
+/* 마지막 */
+section.ending {
+/*  background: white; */
+}
+
+section.ending::before {
+  content: "";
+}

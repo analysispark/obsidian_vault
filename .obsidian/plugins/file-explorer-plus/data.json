@@ -22,7 +22,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "RF-FTP.md",
+        "pattern": "RF-TFP.md",
         "patternType": "STRICT"
       }
     ],

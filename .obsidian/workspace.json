@@ -4,24 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc6b61dec236fef",
+        "id": "3efdd3fc9085afaf",
         "type": "tabs",
         "children": [
           {
-            "id": "44a0204de4a0c536",
+            "id": "d73679ae0ef9e0ac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Resource/Obsidian/Markdown/Markdown 수식 작성법.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Markdown 수식 작성법"
+            }
+          },
+          {
+            "id": "6b949b0d11291bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아카이브/아시아건강운동학회.md",
+                "file": "01_Projects/Charles_AI/CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "아시아건강운동학회"
+              "title": "CLI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,7 +50,7 @@
       {
         "id": "d9cc0d91d5cb5d9d",
         "type": "tabs",
-        "dimension": 62.38095238095238,
+        "dimension": 66.42857142857143,
         "children": [
           {
             "id": "56279bf117b70a44",
@@ -85,7 +102,7 @@
       {
         "id": "d0dfcef7c739c8bd",
         "type": "tabs",
-        "dimension": 37.61904761904762,
+        "dimension": 33.57142857142857,
         "children": [
           {
             "id": "b5f895f490c4385e",
@@ -219,52 +236,52 @@
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "44a0204de4a0c536",
+  "active": "6b949b0d11291bb6",
   "lastOpenFiles": [
+    "02_Area/Lecture_스포츠경기예측론/03_Distribution-pptx.md",
+    "01_Projects/Charles_AI/CLI.md",
+    "01_Projects/Charles_AI",
+    "02_Area/Lecture_스포츠경기예측론/~$03_분포.pptx",
+    "02_Area/English/Dictation.md",
+    "03_Resource/Obsidian/Markdown/Markdown 수식 작성법.md",
+    "02_Area/Statistics/표준오차.md",
+    "02_Area/Statistics/상관분석의 p-value.md",
+    "02_Area/Statistics/Distribution.md",
+    "00_Inbox/검도선수들의 군집화.md",
+    "00_Inbox/머신러닝 연구를 위한 필수지표에 대한 고찰.md",
+    "00_Inbox/의사결정의 결과보다 과정 평가가 중요하다.md",
+    "02_Area/English/GB_002 I'm in ~.md",
+    "아카이브/Obsidian.md",
+    "06_Journal/2021/Diary - Oct.md",
+    "06_Journal/2021",
+    "아카이브/Docker - Debian.md",
+    "아카이브/Fun 22.md",
+    "03_Resource/Obsidian/기승전결 글쓰기.md",
+    "03_Resource/Obsidian/Plugin/옵시디언 메모를 마인드맵으로 정리하자.md",
+    "03_Resource/Obsidian/Writing/헤밍웨이 브리지.md",
+    "03_Resource/Obsidian/글의 요약.md",
+    "05_Attached/image.jpg",
+    "05_Attached/image.png",
+    "02_Area/English/GB_001 I'm at ~.md",
+    "02_Area/English 1/GB_001 I'm at ~.md",
+    "02_Area/English 1/Dictation.md",
+    "02_Area/English 1",
+    "03_Resource/Obsidian/Markdown/Pandoc & Marp.md",
+    "아카이브/아시아건강운동학회.md",
     "아카이브/시리얼 - 라이센스.md",
     "아카이브/Linux-mint 22.2 - RTX 4080.md",
-    "아카이브/Git.md",
-    "02_Area/Lecture_측정평가/04_상관과 예측.md",
-    "03_Resource/Obsidian/Markdown/Pandoc & Marp.md",
     "02_Area/Lecture_스포츠경기예측론/03_Distribution-pptx.html",
     "02_Area/Lecture_스포츠경기예측론/~$03_Distribution-pptx.pptx",
     "02_Area/Lecture_스포츠경기예측론/03_Distribution-pptx.pptx",
-    "02_Area/Lecture_스포츠경기예측론/03_Distribution-pptx.md",
-    "03_Resource/Obsidian/Markdown/Markdown 수식 작성법.md",
     "아카이브",
     "02_Area/Lecture_측정평가/template.pptx",
     "01_Journal",
-    "03_Resource/글짓기/글의 요약.md",
-    "02_Area/Lecture_측정평가",
-    "RF-FTP.md",
-    "03_Resource/Chat GPT/Prompt.md",
-    "03_Resource/Browser/Arcbrowser.md",
-    "00_Inbox/의사결정의 결과보다 과정 평가가 중요하다.md",
-    "00_Inbox/머신러닝 연구를 위한 필수지표에 대한 고찰.md",
-    "00_Inbox/검도선수들의 군집화.md",
-    "00_Inbox/Action AI - 요가동작을 히트맵 거울표시.md",
-    "03_Resource/Second Brain/PARA.md",
-    "03_Resource/Second Brain",
-    "02_Area/English/Dictation.md",
-    "03_Resource/Mac OSX/M1 Tensorflow.md",
-    "02_Area/Statistics/Distribution.md",
-    "README.md",
-    "03_Resource/Lecture notes/모두 거짓말을 한다.md",
-    "05_Attached/image.png",
-    "05_Attached/Getting Started with tensorflow-metal.png",
-    "05_Attached/104회 전국체전 기념 학술대회 1일차_경북대_이규일.mkv",
-    "06_Journal/2026/2026-09-19.md",
-    "01_Projects/KUSF/KUSF.md",
-    "06_Journal/2026",
-    "2026-09-19.md",
-    "00_Inbox/루틴 만들기.md",
-    "00_Inbox/GPT 챗봇 만들기.md"
+    "05_Attached/Getting Started with tensorflow-metal.png"
   ]
 }
